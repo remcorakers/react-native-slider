@@ -1,4 +1,4 @@
-declare module "@brlja/react-native-slider" {
+declare module "@remcorakers/react-native-slider" {
   import { ComponentClass, PureComponent } from "react";
 
   import {
@@ -6,7 +6,7 @@ declare module "@brlja/react-native-slider" {
     SpringAnimationConfig,
     StyleProp,
     TimingAnimationConfig,
-    ViewStyle
+    ViewStyle,
   } from "react-native";
 
   interface SliderProps {
